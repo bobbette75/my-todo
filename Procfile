@@ -1,1 +1,1 @@
-web:gunicorn TechTodo.wsgi --log-file-
+web:gunicorn TechTodo.wsgi --log-file -
